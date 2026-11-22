@@ -1,0 +1,78 @@
+/* Body and Background */
+body {
+  font-family: 'Raleway', sans-serif;
+  background: url('../images/image16.jpg') no-repeat center center fixed; /* Set image16 as the background */
+  background-size: cover; /* Ensure the image covers the entire background */
+  color: #ffffff; /* Adjust text color for better contrast */
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+/* About Page Specific */
+.about-page {
+  text-align: center;
+}
+
+.about-page h1 {
+  color: #000000; /* Change this to your desired color */
+  font-size: 2.5rem; /* Optional: Adjust font size */
+  margin-bottom: 1rem; /* Optional: Add spacing below the heading */
+}
+
+/* About Content */
+.about-content {
+  margin-top: 2rem;
+  font-size: 1.1rem;
+  color: #374151;
+  line-height: 1.8;
+  background: rgba(255, 255, 255, 0.9); /* Light semi-transparent white box */
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* About List */
+.about-list {
+  margin-top: 1rem;
+  list-style: none;
+  padding-left: 0;
+}
+
+.about-list li {
+  margin-bottom: 0.75rem;
+}
+
+/* See Vehicles Button */
+.button-container {
+  margin-top: 2rem;
+}
+
+.see-vehicles-button {
+  background-color: #3b82f6;
+  color: white;
+  padding: 0.8rem 2rem;
+  border-radius: 12px;
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.see-vehicles-button:hover {
+  background-color: #2563eb;
+}
+
+/* Closing Text */
+.closing-text {
+  margin-top: 2.5rem;
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #1f2937;
+}
+.logo img { 
+    position: absolute;
+    width: 150px;
+    height: auto;
+    left: 120px;
+    top: 10px;
+  }

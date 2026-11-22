@@ -85,7 +85,7 @@ body {
 }
 .instagram img { 
     position: absolute;
-    width: 150px;
+    width: 170px;
     height: auto;
     top: 600px;
     left: 1000px;
@@ -94,13 +94,13 @@ body {
     position: absolute;
     width: 90px;
     height: auto;
-    top: 630px;
-    left: 1150px;
+    top: 640px;
+    left: 1220px;
 }   
 .Email img { 
     position: absolute;
     width: 90px;
     height: auto;
-    top: 630px;
-    left: 1500px;
-}
+    top: 650px;
+    left: 1400px;
+}   
